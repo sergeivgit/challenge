@@ -1,0 +1,16 @@
+version:  '2'
+services:
+  cities-management:  
+    build: ../cities-management-service
+    container_name: cities-management
+    ports:
+    - "8080:8080"
+  cites-path-finder:  
+    build: ../cities-path-finder-service
+    container_name: cities-path-finder
+    links: 
+    - "cities-management"
+    depends_on:
+    - cities-management
+    ports:
+      - "8090:8090"

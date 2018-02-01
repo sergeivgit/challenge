@@ -1,0 +1,9 @@
+insert into CityRoute values(1,'Zaragoza', 'Lleida','08:00', '09:20', 80);
+insert into CityRoute values(2,'Zaragoza', 'Huesca','08:00', '08:45', 45);
+insert into CityRoute values(3,'Lleida', 'Barcelona','08:00', '09:50', 110);
+insert into CityRoute values(4,'Zaragoza', 'Barcelona','08:00', '10:30', 150);
+insert into CityRoute values(5,'Madrid', 'Zaragoza','08:00', '11:00', 180);
+insert into CityRoute values(6,'Madrid', 'Barcelona','08:00', '12:00', 240);
+insert into CityRoute values(7,'Barcelona', 'Lleida','08:00', '09:50', 110);
+insert into CityRoute values(8,'Madrid', 'Teruel','08:00', '10:20', 140);
+insert into CityRoute values(9,'Teruel', 'Barcelona','08:00', '10:20', 140);

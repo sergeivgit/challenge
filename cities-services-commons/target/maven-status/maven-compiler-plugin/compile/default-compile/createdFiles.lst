@@ -1,0 +1,8 @@
+com/demo/citiesmanagement/domain/CityPath$3.class
+com/demo/cities/domain/exceptions/ApiValidationError.class
+com/demo/cities/domain/exceptions/ApiError.class
+com/demo/cities/domain/exceptions/JsonException.class
+com/demo/citiesmanagement/domain/CityPath$2.class
+com/demo/citiesmanagement/domain/CityPath.class
+com/demo/citiesmanagement/domain/CityPath$1.class
+com/demo/cities/domain/exceptions/ApiSubError.class
